@@ -1,0 +1,3 @@
+Windows Desktop: Maengelaufnahme_V4.html lokal speichern. Rechtsklick auf Desktop > Neu > Verknuepfung > Datei auswaehlen. Name: Maengelaufnahme.
+App-Installation: Inhalt dieses Ordners ueber HTTPS hosten. In Edge: Menue > Apps > Diese Website als App installieren.
+Offline: Nach dem ersten Online-Laden funktioniert die installierte App offline. WhatsApp-Versand braucht eine Verbindung.
