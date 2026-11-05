@@ -1,3 +1,5 @@
-Windows Desktop: Maengelaufnahme_V4.html lokal speichern. Rechtsklick auf Desktop > Neu > Verknuepfung > Datei auswaehlen. Name: Maengelaufnahme.
-App-Installation: Inhalt dieses Ordners ueber HTTPS hosten. In Edge: Menue > Apps > Diese Website als App installieren.
-Offline: Nach dem ersten Online-Laden funktioniert die installierte App offline. WhatsApp-Versand braucht eine Verbindung.
+SEM AG Mängelaufnahme V5
+
+Alle Dateien aus diesem ZIP direkt in das GitHub-Repository maengelaufnahme hochladen. index.html, manifest.webmanifest und sw.js ersetzen; die neuen PNG-Icons und sem-logo.jpg hinzufügen.
+
+Nach dem Hochladen die App online neu laden. Bereits installierte Android-Icons werden unter Umständen erst nach Neuinstallation aktualisiert. Bestehende lokal gespeicherte Mängelaufnahmen bleiben beim Update normalerweise erhalten, dennoch vorher Sicherung exportieren.
