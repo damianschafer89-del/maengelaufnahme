@@ -1,5 +1,6 @@
-SEM AG Mängelaufnahme V5
+SEM Mängelaufnahme V6
 
-Alle Dateien aus diesem ZIP direkt in das GitHub-Repository maengelaufnahme hochladen. index.html, manifest.webmanifest und sw.js ersetzen; die neuen PNG-Icons und sem-logo.jpg hinzufügen.
-
-Nach dem Hochladen die App online neu laden. Bereits installierte Android-Icons werden unter Umständen erst nach Neuinstallation aktualisiert. Bestehende lokal gespeicherte Mängelaufnahmen bleiben beim Update normalerweise erhalten, dennoch vorher Sicherung exportieren.
+Alle Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen und vorhandene Dateien ersetzen.
+Wichtig: index.html und sw.js aktualisieren.
+Allgemeine Bemerkungen erscheinen vor den Mängeln; lange Mängeltexte werden vollständig auf Fortsetzungs-Halbseiten ausgegeben.
+Bestehende lokale Daten bleiben erhalten. Vor dem Update empfiehlt sich eine Sicherung.
